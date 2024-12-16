@@ -1,4 +1,8 @@
+#Ex.no:1
 # Fitting Poisson  distribution
+#NAME:MAGESHWARAN T.A
+#Ref.no:24901214
+#Date:10\10\24
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
